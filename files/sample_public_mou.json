@@ -1,0 +1,29 @@
+{
+  "mou_id": "sample-public-001",
+  "title": "Sample MoU for Startup Mentoring",
+  "partner_name": "Sample Innovation Labs",
+  "mou_type": "Industry Collaboration",
+  "summary": "A synthetic sample record for demonstrating MoU discovery without exposing private college data.",
+  "key_highlights": [
+    "Mentoring sessions for student startup teams.",
+    "Prototype review support for early-stage projects.",
+    "Workshops on product discovery and technical validation."
+  ],
+  "departments": [
+    "Computer Science and Engineering",
+    "Electronics and Communication Engineering"
+  ],
+  "domains": [
+    "Startup Incubation",
+    "Entrepreneurship Development",
+    "Skill Development"
+  ],
+  "tags": [
+    "sample",
+    "startup",
+    "mentoring"
+  ],
+  "mou_start_date": "2026-01-01",
+  "mou_end_date": "2027-01-01",
+  "is_active": true
+}

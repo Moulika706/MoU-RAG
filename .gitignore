@@ -1,0 +1,31 @@
+# Python
+.venv/
+.uv-cache/
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Environment / secrets
+.env
+.env.*
+
+# Private MOU data. Keep real college MoU records locally only.
+files/*
+!files/.gitkeep
+!files/README.md
+!files/sample_public_mou.json
+
+# Local vector store (rebuilt from `files/`)
+chroma/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
